@@ -216,7 +216,7 @@ global.APIs = { // API Prefix
   zahir: 'https://zahirr-web.herokuapp.com',
   lol: 'https://api.lolhuman.xyz',
   dhnjing: 'https://dhnjing.xyz',
-  neoxr: 'https://neoxr-api.herokuapp.com',
+  neoxr: 'https://api.neoxr.my.id/',
   zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
   ana: 'https://anabotofc.herokuapp.com/',
@@ -235,20 +235,20 @@ global.APIs = { // API Prefix
 
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'ebb6251cc00f9c63',
+  'https://api.xteam.xyz': 'eecdc22435446960',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': '8e66d0934cf741bfd2182c16',// 8e66d0934cf741bfd2182c16
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://melcanz.com': 'melcantik',
-  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://api.neoxr.my.id/': 'J0nbiU',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Apikeymu',
+  'https://botstyle-api.herokuapp.com': 'jauNg8fa',
   'https://hardianto.xyz': 'hardianto',
   'https://violetics.pw': 'beta',
   'https://ziy.herokuapp.com' : 'xZiyy',
-  'https://api.nataganz.com' : 'Pasha'
+  'https://api.nataganz.com' : '925b04ib0j'
 }
 //⳹ NOTE !! EXAMPLE ➢ 'https://WebsiteApi': 'Apikey'
 
