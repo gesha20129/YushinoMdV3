@@ -53,7 +53,7 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Run By Langz'
+global.author = 'Deploy By Langz'
 global.namebot = 'LangBotz'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 LangBotz'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
@@ -72,7 +72,7 @@ global.nameown1= 'Langz'
 global.nameown2 = 'Langz'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://lynk.id/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -80,7 +80,7 @@ global.sig = 'https://instagram.com/woolcream'
 global.sgh = 'https://github.com/GilangSan' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = 'https://youtube.com/channel/@blueg2027'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.pdana = '0822 8489 9110'
@@ -89,7 +89,7 @@ global.pgopay = '-'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0822 8489 9110'
 global.ppulsa2 = '-'
-global.psaweria = 'https://saweria.co/hyuura'
+global.psaweria = 'https://saweria.co/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -262,10 +262,10 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
+global.thumb = 'https://telegra.ph/file/61639197302e6105eb3b0.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/61639197302e6105eb3b0.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
+global.thumbs = ['https://telegra.ph/file/61639197302e6105eb3b0.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
   'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
