@@ -39,55 +39,55 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['62895634865955', 'Langz', true]
+['6285894141273', 'Lerrr', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283895749662'
-global.nomorown = '62895634865955'
-global.nomorown1 = '62895634865955'
-global.nomorown2 = '62895634865955'
+global.nomorbot = '6285894141273'
+global.nomorown = '6285894141273'
+global.nomorown1 = '6285894141273'
+global.nomorown2 = '6285894141273'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Deploy By Langz'
-global.namebot = 'LangBotz'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 LangBotz'
+global.author = 'Deploy By Lerrr'
+global.namebot = 'RiyukuBotz'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Lerr'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'LangBotz '
+global.wm2 = 'RiyukuBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `LangBotz`
-global.stickpack = 'LangBotz By'
-global.stickauth = `© Langz`
+global.titlebot = `RiyukuBotz`
+global.stickpack = 'RiyukuBotz By'
+global.stickauth = `© Lerrr`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Langz'
-global.nameown2 = 'Langz'
+global.nameown1= 'Lerrr'
+global.nameown2 = 'Lerr'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/woolcream'
-global.sgh = 'https://github.com/GilangSan' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sig = 'https://instagram.com/geshrfd'
+global.sgh = 'https://github.com/' //github
+global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/@blueg2027'
+global.snh = 'https://youtube.com/channel/@Kizaru'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0822 8489 9110'
+global.pdana = '085891318105'
 global.povo = '-'
 global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0822 8489 9110'
+global.ppulsa = '085891318105'
 global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/'
 
@@ -305,7 +305,7 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.urlnya = "https://www.instagram.com/woolcream"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62895634865955'
+global.phn = '6285894141273'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
